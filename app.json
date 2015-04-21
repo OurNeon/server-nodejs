@@ -1,0 +1,7 @@
+{
+  "name": "beve-server",
+  "description": "REST API for Beve App",
+  "repository": "https://github.com/beveinc/server-nodejs",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["nail", "REST", "Beve", "API"]
+}
